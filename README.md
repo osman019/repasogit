@@ -1,2 +1,2 @@
  * repaso de git 
- En esta clase estamos practicando git
+ En esta clase estamos practicando git hoy 
